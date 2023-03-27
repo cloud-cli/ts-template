@@ -2,3 +2,5 @@ jest*.mjs
 tsconfig.json
 coverage/
 .github/
+dist/*.spec.js
+dist/*.spec.d.ts
